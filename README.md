@@ -2,7 +2,7 @@
 
 |reference| comment  |
 |--|--|
-| [Choice of effective messaging protocols for IoT systems](Choice_of_effective_messaging_protocols_for_IoT_systems.pdf) | This paper presents an evaluation of the four messaging protocols MQTT, CoAP, AMQP and HTTP. 
+| [Choice of effective messaging protocols for IoT systems](resource/Choice_of_effective_messaging_protocols_for_IoT_systems.pdf) | This paper presents an evaluation of the four messaging protocols MQTT, CoAP, AMQP and HTTP. 
  |
  
 <!--stackedit_data:
